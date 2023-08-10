@@ -1,1 +1,36 @@
-/*  your css code here. If applicable */
+table{
+	background-color:yellow;
+	border:1px solid black;
+	text-align:center;
+	
+}
+h1{
+margin:0px;
+margin-left:40px;
+}
+table>thead{
+	text-transform:uppercase;
+	
+}
+.first{
+	font-weight:700;
+	font-size:20px;
+	border:1px solid black;
+}
+.capital{
+	text-transform:uppercase;
+}
+th,td{
+	border:1px solid black;
+}
+th{
+	padding:10px;
+}
+
+div{
+	text-align:center;
+}
+table{
+	margin:auto;
+}
+
