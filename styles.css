@@ -4,9 +4,9 @@ table{
 	text-align:center;
 	
 }
-h1{
-margin:0px;
-margin-left:40px;
+caption{
+	font-size:40px;
+	font-weigth:bolder;
 }
 table>thead{
 	text-transform:uppercase;
@@ -23,13 +23,10 @@ table>thead{
 th,td{
 	border:1px solid black;
 }
-th{
+th,td{
 	padding:10px;
 }
 
-div{
-	text-align:center;
-}
 table{
 	margin:auto;
 }
